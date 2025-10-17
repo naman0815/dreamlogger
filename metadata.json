@@ -1,0 +1,5 @@
+{
+  "name": "Dream Logger AI",
+  "description": "An AI-powered mobile web app to help you log, analyze, and understand your dreams. It automatically detects themes and people from your dream descriptions.",
+  "requestFramePermissions": []
+}
